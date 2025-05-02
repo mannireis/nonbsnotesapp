@@ -1,0 +1,22 @@
+{
+  "name": "nonbsnotesapp",
+  "version": "1.0.0",
+  "description": "A non BS notes app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo nobstesting && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannireis/nonbsnotesapp.git"
+  },
+  "author": "manni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mannireis/nonbsnotesapp/issues"
+  },
+  "homepage": "https://github.com/mannireis/nonbsnotesapp#readme",
+  "devDependencies": {
+    "electron": "^36.1.0"
+  }
+}
